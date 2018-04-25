@@ -1,6 +1,3 @@
-Ansible role for deploying the Crafty Mattermost bot
-====================================================
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-This role deploys the Crafty Mattermost bot. [1]
-
-[1]: https://gitlab.com/opencraft/dev/crafty
+[1]: https://github.com/open-craft/ansible-playbooks
